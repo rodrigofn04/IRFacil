@@ -15,6 +15,7 @@
   color: white;
   padding: 40px 20px;
   text-align: center;
+  max-height: 800px;
 }
 
 .hero-text h1 {
@@ -138,7 +139,7 @@ p {
 }
 
 .footer img {
-  max-width: 320px; /* aumenta no rodapé também */
+  max-width: 320px; 
   border-radius: 10px;
   box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
 }
